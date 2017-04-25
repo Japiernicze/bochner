@@ -7,10 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Sceny/Menu.unity
-    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Sceny/Generator.unity
-    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Sceny/OnePlayer.unity
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: "Assets/Superdzia\u0142a.unity"
+  - enabled: 1
+    path: "Assets/Tw\xF3rcyMenu.unity"
